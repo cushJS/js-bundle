@@ -1,2 +1,5 @@
-/node_modules/
+/_TODO.md
+/coffeelint.json
 /lib/
+/polyfills/
+/src/
