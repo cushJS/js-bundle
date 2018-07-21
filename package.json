@@ -1,0 +1,30 @@
+{
+  "name": "@cush/js-bundle",
+  "version": "0.1.0",
+  "main": "lib/index",
+  "license": "MIT",
+  "description": "Javascript bundles for cush",
+  "repository": "cushJS/js-bundle",
+  "scripts": {
+    "build": "coffee-build src -o lib"
+  },
+  "files": [
+    "/lib/",
+    "/polyfills/"
+  ],
+  "peerDependencies": {
+    "cush": "^0.2.0"
+  },
+  "dependencies": {
+    "@cush/magic-string": "^0.25.0",
+    "@cush/sorcery": "^1.4.5",
+    "acorn": "^5.7.1",
+    "is-object": "^1.0.1",
+    "saxon": "^0.1.1"
+  },
+  "devDependencies": {
+    "coffeelint": "^2.1.0",
+    "coffeescript": "^2.3.0",
+    "wch-coffee": "*"
+  }
+}
