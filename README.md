@@ -1,4 +1,4 @@
-# @cush/js-bundle v0.2.0
+# @cush/js-bundle v0.2.1
 
 Javascript bundles for [cush][1]
 
