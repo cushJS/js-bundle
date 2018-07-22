@@ -9,8 +9,8 @@
     "build": "coffee-build src -o lib"
   },
   "files": [
-    "/lib/",
-    "/polyfills/"
+    "lib",
+    "polyfills"
   ],
   "peerDependencies": {
     "cush": "^0.2.0"
