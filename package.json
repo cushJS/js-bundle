@@ -1,6 +1,6 @@
 {
   "name": "@cush/js-bundle",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "main": "lib/index",
   "license": "MIT",
   "description": "Javascript bundles for cush",
